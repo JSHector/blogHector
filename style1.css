@@ -1,0 +1,175 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.menu {
+    display:flex;
+    margin: 30px;
+    justify-content:space-between;
+    position:relative;
+    background-color: darkgray;
+}
+
+.Hector {
+    margin: 1px;
+    padding: 2px 10px 3px 25px;
+}
+
+.Lista {
+    padding-right: 50px;
+}
+
+.lista_li {
+    display: inline-flex;
+    margin-top: 7px;
+    padding: 2px 15px 3px 10px;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.perfil {
+    display:flex;
+    justify-content: end;
+    margin: 30px;
+    margin-top: 20px;
+}
+
+.fotodeperfil {
+    width: 400px;
+    height: 200px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+
+.presentacion {
+    font-size:35px;
+}
+
+.descripcion {
+    font-weight: normal;
+}
+
+.mi {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:rgba(231, 231, 231, 0.952);
+    width: 100%;
+}
+
+.hm {
+    display: flex;
+    padding-left: 30px;
+    font-size: 30px;
+    width: 50%;
+}
+
+.pm {
+    display: flex;
+    padding-left: 30px;
+    width: 75%;
+    font-size: 17px;
+}
+
+.skills {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.skills1 {
+    text-align: center;
+}
+
+.logos {
+    display: inline-flex;
+    width: 33%;
+    justify-content:center;
+}
+
+.logos1 {
+    width: 150px;
+    height: 150px;
+}
+
+.logos2 {
+    width: 150px;
+    height: 150px;
+}
+
+.logos3 {
+    width: 150px;
+    height: 150px;
+}
+.logo2 {
+    font-weight:600;
+    text-align: center;
+}
+
+.hobbies {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.hobbies1 {
+    text-align: center;
+}
+
+.hob {
+    display: inline-flex;
+    width: 33%;
+    justify-content:center;
+}
+
+.hob1 {
+    width: 300px;
+    height: 200px;
+    padding: 1px;
+}
+
+.hob2 {
+    font-weight: 600;
+    text-align: center;
+}
+
+.formacion {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: rgba(231, 231, 231, 0.952);
+}
+
+.formacion1 {
+    padding-top: 40px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.forma {
+    display:inline-flex;
+    width: 49%;
+    justify-content:center;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.forma1 {
+    width: 200px;
+    height: 200px;
+}
+
+.academia {
+    display: inline-flex;
+    padding-top: 30px;
+    text-align: center;
+}
